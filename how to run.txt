@@ -1,0 +1,8 @@
+First install nodejs and python 
+
+
+Then execute these commands :
+
+1. pip install -r requirements.txt
+2. npm install
+3. npm start
